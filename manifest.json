@@ -6,7 +6,7 @@
       "id": "rustex_autoloader",
       "fileName": "rustex-autoloader-1.0.0.jar",
       "sha256": "478a0a1a137c3f3d25fd1f674a5ec8d446b7578e3aa48fc0cc0a8149b1ea3e80",
-      "downloadUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/rustex-mods/main/mods/rustex-autoloader-1.0.0.jar",
+      "downloadUrl": "https://raw.githubusercontent.com/ivanpuskarev24-blip/rustex-mods/main/rustex-autoloader-1.0.0.jar",
       "encrypted": false,
       "version": "1.0.0",
       "required": true
@@ -15,7 +15,7 @@
       "id": "rustex_building",
       "fileName": "rustex-building-1.1.0.jar",
       "sha256": "29ed7b83f3bd1da3a0bec71f1436cefbda7883f4dfcb0c9312a859fbd60fe125",
-      "downloadUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/rustex-mods/main/mods/rustex-building-1.1.0.jar",
+      "downloadUrl": "https://raw.githubusercontent.com/ivanpuskarev24-blip/rustex-mods/main/rustex-building-1.1.0.jar",
       "encrypted": false,
       "version": "1.1.0",
       "required": true
@@ -24,7 +24,7 @@
       "id": "rustex_crafting",
       "fileName": "rustex-crafting-1.0.0.jar",
       "sha256": "267c82a40f22cd3f0db1a9b433b03555b9cb236e6d7420c21157a0adda71e8b4",
-      "downloadUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/rustex-mods/main/mods/rustex-crafting-1.0.0.jar",
+      "downloadUrl": "https://raw.githubusercontent.com/ivanpuskarev24-blip/rustex-mods/main/rustex-crafting-1.0.0.jar",
       "encrypted": false,
       "version": "1.0.0",
       "required": true
@@ -33,7 +33,7 @@
       "id": "rustex_loot",
       "fileName": "rustex-loot-1.0.0.jar",
       "sha256": "9c299ce9d046d7fd150750fb9bd10fe38bee35b0bba164ba22d286fe9607787c",
-      "downloadUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/rustex-mods/main/mods/rustex-loot-1.0.0.jar",
+      "downloadUrl": "https://raw.githubusercontent.com/ivanpuskarev24-blip/rustex-mods/main/rustex-loot-1.0.0.jar",
       "encrypted": false,
       "version": "1.0.0",
       "required": true
@@ -42,7 +42,7 @@
       "id": "rustex_mobs",
       "fileName": "rustex-mobs-1.1.0.jar",
       "sha256": "93f3461557995a833da7532a7f754d0158a06016998c988420b6f1e381d8ab40",
-      "downloadUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/rustex-mods/main/mods/rustex-mobs-1.1.0.jar",
+      "downloadUrl": "https://raw.githubusercontent.com/ivanpuskarev24-blip/rustex-mods/main/rustex-mobs-1.1.0.jar",
       "encrypted": false,
       "version": "1.1.0",
       "required": true
@@ -51,7 +51,7 @@
       "id": "rustex_raids",
       "fileName": "rustex-raids-1.0.0.jar",
       "sha256": "30939ef04103e2a8dc3bab8ebf51ee9f7af5329be8e49a5fe29b22ee176e507f",
-      "downloadUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/rustex-mods/main/mods/rustex-raids-1.0.0.jar",
+      "downloadUrl": "https://raw.githubusercontent.com/ivanpuskarev24-blip/rustex-mods/main/rustex-raids-1.0.0.jar",
       "encrypted": false,
       "version": "1.0.0",
       "required": true
@@ -60,7 +60,7 @@
       "id": "rustex_survival",
       "fileName": "rustex-survival-1.1.0.jar",
       "sha256": "1f6d29c4d87b27eff4b8425ab5b37c931b355ff25f36671842ba68a4d65dd6e9",
-      "downloadUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/rustex-mods/main/mods/rustex-survival-1.1.0.jar",
+      "downloadUrl": "https://raw.githubusercontent.com/ivanpuskarev24-blip/rustex-mods/main/rustex-survival-1.1.0.jar",
       "encrypted": false,
       "version": "1.1.0",
       "required": true
@@ -69,7 +69,7 @@
       "id": "rustex_transport",
       "fileName": "rustex-transport-1.0.0.jar",
       "sha256": "7771ecc702115c07e0098627af8af7d64f4045db990bc8e56f7031f964d31a99",
-      "downloadUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/rustex-mods/main/mods/rustex-transport-1.0.0.jar",
+      "downloadUrl": "https://raw.githubusercontent.com/ivanpuskarev24-blip/rustex-mods/main/rustex-transport-1.0.0.jar",
       "encrypted": false,
       "version": "1.0.0",
       "required": true
@@ -78,7 +78,7 @@
       "id": "rustex_world",
       "fileName": "rustex-world-1.0.0.jar",
       "sha256": "fb33f484581a5203d79668ef750ab1eb29ebd55e35697ebf51b80f87f1ae7d5e",
-      "downloadUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/rustex-mods/main/mods/rustex-world-1.0.0.jar",
+      "downloadUrl": "https://raw.githubusercontent.com/ivanpuskarev24-blip/rustex-mods/main/rustex-world-1.0.0.jar",
       "encrypted": false,
       "version": "1.0.0",
       "required": true
