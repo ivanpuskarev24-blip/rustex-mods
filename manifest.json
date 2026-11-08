@@ -23,7 +23,7 @@
     {
       "id": "rustex_crafting",
       "fileName": "rustex-crafting-1.0.0.jar",
-      "sha256": "267c82a40f22cd3f0db1a9b433b03555b9cb236e6d7420c21157a0adda71e8b4",
+      "sha256": "0e7da950d8350bb60b40bf1ac72a111901f3b2f2a56eb33eac331d2a173ff3bc",
       "downloadUrl": "https://raw.githubusercontent.com/ivanpuskarev24-blip/rustex-mods/main/rustex-crafting-1.0.0.jar",
       "encrypted": false,
       "version": "1.0.0",
@@ -59,7 +59,7 @@
     {
       "id": "rustex_survival",
       "fileName": "rustex-survival-1.1.0.jar",
-      "sha256": "1f6d29c4d87b27eff4b8425ab5b37c931b355ff25f36671842ba68a4d65dd6e9",
+      "sha256": "9b2fd0bd979e1cd0424a9c60871ddabd5642877cede044b6405c3e5a2f205ba0",
       "downloadUrl": "https://raw.githubusercontent.com/ivanpuskarev24-blip/rustex-mods/main/rustex-survival-1.1.0.jar",
       "encrypted": false,
       "version": "1.1.0",
